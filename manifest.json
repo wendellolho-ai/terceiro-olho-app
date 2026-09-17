@@ -1,15 +1,16 @@
 {
   "name": "Terceiro Olho - Ativação Imediata",
   "short_name": "3° Olho",
-  "description": "Desperte seu terceiro olho em 11 minutos - método alta eficiência",
-  "start_url": "./index.html",
+  "description": "Desperte seu terceiro olho em 11 minutos com método de alta eficiência, meditação guiada e frequência 852Hz",
+  "start_url": "https://wendellolho-ai.github.io/terceiro-olho-app/",
   "display": "standalone",
   "background_color": "#08080a",
   "theme_color": "#7c3aed",
   "orientation": "portrait",
+  "scope": "/terceiro-olho-app/",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/2316/2316257.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
